@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-05-14T19:19:56.915Z",
+  "generatedAt": "2026-05-15T19:06:30.525Z",
   "series": "avatar",
   "total": 475,
   "tags": [
     {
       "tag": "人像",
-      "score": 550,
+      "score": 549,
       "views": 436,
       "downloads": 223,
       "wallpaperCount": 150,
@@ -22,11 +22,11 @@
           "cdnTag": "v1.1.11"
         },
         {
-          "thumbnail": "/thumbnail/avatar/人像/氛围感/车窗黄昏凝望女生.webp",
+          "thumbnail": "/thumbnail/avatar/人像/氛围感/街角回眸男生.webp",
           "cdnTag": "v1.1.11"
         },
         {
-          "thumbnail": "/thumbnail/avatar/人像/氛围感/街角回眸男生.webp",
+          "thumbnail": "/thumbnail/avatar/人像/氛围感/车窗黄昏凝望女生.webp",
           "cdnTag": "v1.1.11"
         },
         {
@@ -37,9 +37,9 @@
     },
     {
       "tag": "动漫",
-      "score": 298,
-      "views": 295,
-      "downloads": 117,
+      "score": 301,
+      "views": 298,
+      "downloads": 118,
       "wallpaperCount": 94,
       "series": [
         "avatar"
@@ -58,18 +58,18 @@
           "cdnTag": "v1.1.42"
         },
         {
-          "thumbnail": "/thumbnail/avatar/动漫/通用/image_氛围感男头话题_热门头像话题_男..._14.webp",
-          "cdnTag": "v1.2.33"
-        },
-        {
           "thumbnail": "/thumbnail/avatar/动漫/哆啦A梦/微信图片_20260310202254_659_4.webp",
           "cdnTag": "v1.2.8"
+        },
+        {
+          "thumbnail": "/thumbnail/avatar/动漫/通用/image_氛围感男头话题_热门头像话题_男..._14.webp",
+          "cdnTag": "v1.2.33"
         }
       ]
     },
     {
       "tag": "氛围感",
-      "score": 258,
+      "score": 257,
       "views": 223,
       "downloads": 117,
       "wallpaperCount": 61,
@@ -86,11 +86,11 @@
           "cdnTag": "v1.1.11"
         },
         {
-          "thumbnail": "/thumbnail/avatar/人像/氛围感/车窗黄昏凝望女生.webp",
+          "thumbnail": "/thumbnail/avatar/人像/氛围感/街角回眸男生.webp",
           "cdnTag": "v1.1.11"
         },
         {
-          "thumbnail": "/thumbnail/avatar/人像/氛围感/街角回眸男生.webp",
+          "thumbnail": "/thumbnail/avatar/人像/氛围感/车窗黄昏凝望女生.webp",
           "cdnTag": "v1.1.11"
         },
         {
@@ -102,7 +102,7 @@
     {
       "tag": "萌宠",
       "score": 186,
-      "views": 163,
+      "views": 165,
       "downloads": 91,
       "wallpaperCount": 33,
       "series": [
@@ -166,7 +166,7 @@
     {
       "tag": "猫咪",
       "score": 149,
-      "views": 133,
+      "views": 135,
       "downloads": 74,
       "wallpaperCount": 19,
       "series": [
@@ -198,7 +198,7 @@
     {
       "tag": "插画",
       "score": 135,
-      "views": 119,
+      "views": 120,
       "downloads": 62,
       "wallpaperCount": 43,
       "series": [
@@ -230,7 +230,7 @@
     {
       "tag": "IP形象",
       "score": 133,
-      "views": 146,
+      "views": 148,
       "downloads": 52,
       "wallpaperCount": 43,
       "series": [
@@ -254,8 +254,8 @@
           "cdnTag": "v1.1.13"
         },
         {
-          "thumbnail": "/thumbnail/avatar/IP形象/水豚噜噜/牛马水豚.webp",
-          "cdnTag": "v1.1.24"
+          "thumbnail": "/thumbnail/avatar/IP形象/水豚噜噜/举橙握刀嚣张登场.webp",
+          "cdnTag": "v1.1.4"
         }
       ]
     },
@@ -294,7 +294,7 @@
     {
       "tag": "二次元",
       "score": 83,
-      "views": 70,
+      "views": 71,
       "downloads": 37,
       "wallpaperCount": 24,
       "series": [
@@ -421,7 +421,7 @@
     },
     {
       "tag": "水豚噜噜",
-      "score": 74,
+      "score": 73,
       "views": 76,
       "downloads": 31,
       "wallpaperCount": 17,
@@ -442,11 +442,11 @@
           "cdnTag": "v1.1.13"
         },
         {
-          "thumbnail": "/thumbnail/avatar/IP形象/水豚噜噜/牛马水豚.webp",
-          "cdnTag": "v1.1.24"
+          "thumbnail": "/thumbnail/avatar/IP形象/水豚噜噜/举橙握刀嚣张登场.webp",
+          "cdnTag": "v1.1.4"
         },
         {
-          "thumbnail": "/thumbnail/avatar/IP形象/水豚噜噜/举橙握刀嚣张登场.webp",
+          "thumbnail": "/thumbnail/avatar/IP形象/水豚噜噜/冷脸持刀气场全开.webp",
           "cdnTag": "v1.1.4"
         }
       ]
@@ -454,7 +454,7 @@
     {
       "tag": "卡通",
       "score": 69,
-      "views": 68,
+      "views": 69,
       "downloads": 19,
       "wallpaperCount": 16,
       "series": [
@@ -518,7 +518,7 @@
     {
       "tag": "戴耳机",
       "score": 66,
-      "views": 56,
+      "views": 57,
       "downloads": 35,
       "wallpaperCount": 1,
       "series": [
@@ -565,8 +565,8 @@
     },
     {
       "tag": "哆啦A梦",
-      "score": 55,
-      "views": 56,
+      "score": 56,
+      "views": 57,
       "downloads": 23,
       "wallpaperCount": 11,
       "series": [
@@ -629,8 +629,8 @@
     },
     {
       "tag": "可爱",
-      "score": 50,
-      "views": 39,
+      "score": 51,
+      "views": 40,
       "downloads": 17,
       "wallpaperCount": 14,
       "series": [
@@ -886,7 +886,7 @@
     {
       "tag": "银发蓝瞳男孩比耶蓝天背景",
       "score": 30,
-      "views": 26,
+      "views": 27,
       "downloads": 17,
       "wallpaperCount": 1,
       "series": [
@@ -966,7 +966,7 @@
     {
       "tag": "搞笑",
       "score": 27,
-      "views": 23,
+      "views": 24,
       "downloads": 12,
       "wallpaperCount": 3,
       "series": [
@@ -1070,7 +1070,7 @@
     {
       "tag": "Q版",
       "score": 25,
-      "views": 23,
+      "views": 24,
       "downloads": 7,
       "wallpaperCount": 2,
       "series": [
@@ -1152,18 +1152,34 @@
       ]
     },
     {
-      "tag": "蜜蜂",
+      "tag": "小八",
       "score": 22,
-      "views": 20,
-      "downloads": 6,
-      "wallpaperCount": 1,
+      "views": 26,
+      "downloads": 10,
+      "wallpaperCount": 13,
       "series": [
         "avatar"
       ],
       "topWallpapers": [
         {
-          "thumbnail": "/thumbnail/avatar/IP形象/通用/微信图片_20260310202255_660_4.webp",
-          "cdnTag": "v1.2.8"
+          "thumbnail": "/thumbnail/avatar/通用/微信图片_2026-01-23_165124_953.webp",
+          "cdnTag": "v1.1.53"
+        },
+        {
+          "thumbnail": "/thumbnail/avatar/通用/微信图片_2026-01-23_165048_375.webp",
+          "cdnTag": "v1.1.53"
+        },
+        {
+          "thumbnail": "/thumbnail/avatar/IP形象/小八/举小丑面具.webp",
+          "cdnTag": "v1.1.4"
+        },
+        {
+          "thumbnail": "/thumbnail/avatar/IP形象/小八/抱鱼乖巧.webp",
+          "cdnTag": "v1.1.4"
+        },
+        {
+          "thumbnail": "/thumbnail/avatar/IP形象/小八/揣手站定.webp",
+          "cdnTag": "v1.1.4"
         }
       ]
     }

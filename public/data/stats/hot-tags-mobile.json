@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-14T19:19:56.845Z",
+  "generatedAt": "2026-05-15T19:06:30.461Z",
   "series": "mobile",
   "total": 780,
   "tags": [
     {
       "tag": "人像",
-      "score": 5230,
-      "views": 4811,
+      "score": 5194,
+      "views": 4815,
       "downloads": 1271,
       "wallpaperCount": 160,
       "series": [
@@ -37,8 +37,8 @@
     },
     {
       "tag": "插画",
-      "score": 2243,
-      "views": 1676,
+      "score": 2229,
+      "views": 1678,
       "downloads": 657,
       "wallpaperCount": 86,
       "series": [
@@ -69,8 +69,8 @@
     },
     {
       "tag": "魅力",
-      "score": 2215,
-      "views": 2029,
+      "score": 2199,
+      "views": 2030,
       "downloads": 499,
       "wallpaperCount": 37,
       "series": [
@@ -101,9 +101,9 @@
     },
     {
       "tag": "风景",
-      "score": 1870,
-      "views": 1695,
-      "downloads": 643,
+      "score": 1879,
+      "views": 1711,
+      "downloads": 647,
       "wallpaperCount": 90,
       "series": [
         "mobile"
@@ -133,8 +133,8 @@
     },
     {
       "tag": "清新",
-      "score": 1653,
-      "views": 1363,
+      "score": 1640,
+      "views": 1364,
       "downloads": 441,
       "wallpaperCount": 52,
       "series": [
@@ -165,8 +165,8 @@
     },
     {
       "tag": "长发",
-      "score": 1394,
-      "views": 1045,
+      "score": 1387,
+      "views": 1048,
       "downloads": 306,
       "wallpaperCount": 22,
       "series": [
@@ -197,8 +197,8 @@
     },
     {
       "tag": "氛围感",
-      "score": 1132,
-      "views": 1062,
+      "score": 1127,
+      "views": 1064,
       "downloads": 305,
       "wallpaperCount": 49,
       "series": [
@@ -229,8 +229,8 @@
     },
     {
       "tag": "创意",
-      "score": 1118,
-      "views": 1049,
+      "score": 1115,
+      "views": 1050,
       "downloads": 364,
       "wallpaperCount": 74,
       "series": [
@@ -250,18 +250,18 @@
           "cdnTag": "v1.1.96"
         },
         {
-          "thumbnail": "/thumbnail/mobile/插画/创意/二次元-动漫女孩.webp",
+          "thumbnail": "/thumbnail/mobile/插画/创意/原画艺术-插画艺术.webp",
           "cdnTag": "v1.1.98"
         },
         {
-          "thumbnail": "/thumbnail/mobile/插画/创意/原画艺术-插画艺术.webp",
+          "thumbnail": "/thumbnail/mobile/插画/创意/二次元-动漫女孩.webp",
           "cdnTag": "v1.1.98"
         }
       ]
     },
     {
       "tag": "动漫",
-      "score": 1039,
+      "score": 1033,
       "views": 1059,
       "downloads": 322,
       "wallpaperCount": 77,
@@ -274,12 +274,12 @@
           "cdnTag": "v1.2.41"
         },
         {
-          "thumbnail": "/thumbnail/mobile/动漫/插画/三月七-个性穿搭.webp",
-          "cdnTag": "v1.1.98"
-        },
-        {
           "thumbnail": "/thumbnail/mobile/动漫/海贼王/image_神图壁纸_锁屏壁纸_壁纸_该换壁..._17.webp",
           "cdnTag": "v1.1.84"
+        },
+        {
+          "thumbnail": "/thumbnail/mobile/动漫/插画/三月七-个性穿搭.webp",
+          "cdnTag": "v1.1.98"
         },
         {
           "thumbnail": "/thumbnail/mobile/动漫/斗破苍穹/薰儿.webp",
@@ -293,7 +293,7 @@
     },
     {
       "tag": "漫画风格",
-      "score": 885,
+      "score": 879,
       "views": 760,
       "downloads": 207,
       "wallpaperCount": 3,
@@ -317,9 +317,9 @@
     },
     {
       "tag": "阳光",
-      "score": 831,
-      "views": 494,
-      "downloads": 235,
+      "score": 842,
+      "views": 501,
+      "downloads": 239,
       "wallpaperCount": 12,
       "series": [
         "mobile"
@@ -349,7 +349,7 @@
     },
     {
       "tag": "紧身衣",
-      "score": 675,
+      "score": 670,
       "views": 646,
       "downloads": 150,
       "wallpaperCount": 4,
@@ -377,7 +377,7 @@
     },
     {
       "tag": "黑丝",
-      "score": 637,
+      "score": 632,
       "views": 550,
       "downloads": 126,
       "wallpaperCount": 11,
@@ -409,8 +409,8 @@
     },
     {
       "tag": "蓝天",
-      "score": 573,
-      "views": 416,
+      "score": 569,
+      "views": 417,
       "downloads": 115,
       "wallpaperCount": 6,
       "series": [
@@ -441,7 +441,7 @@
     },
     {
       "tag": "丝袜",
-      "score": 547,
+      "score": 543,
       "views": 523,
       "downloads": 122,
       "wallpaperCount": 1,
@@ -457,9 +457,9 @@
     },
     {
       "tag": "星空",
-      "score": 514,
-      "views": 480,
-      "downloads": 163,
+      "score": 527,
+      "views": 489,
+      "downloads": 167,
       "wallpaperCount": 16,
       "series": [
         "mobile"
@@ -489,9 +489,9 @@
     },
     {
       "tag": "梦幻",
-      "score": 486,
-      "views": 329,
-      "downloads": 146,
+      "score": 498,
+      "views": 336,
+      "downloads": 150,
       "wallpaperCount": 10,
       "series": [
         "mobile"
@@ -521,8 +521,8 @@
     },
     {
       "tag": "少女",
-      "score": 465,
-      "views": 383,
+      "score": 462,
+      "views": 384,
       "downloads": 120,
       "wallpaperCount": 16,
       "series": [
@@ -538,12 +538,12 @@
           "cdnTag": "v1.2.33"
         },
         {
-          "thumbnail": "/thumbnail/mobile/人像/清新/20260424_165615.webp",
-          "cdnTag": "v1.2.73"
-        },
-        {
           "thumbnail": "/thumbnail/mobile/插画/创意/原画艺术-插画艺术.webp",
           "cdnTag": "v1.1.98"
+        },
+        {
+          "thumbnail": "/thumbnail/mobile/人像/清新/20260424_165615.webp",
+          "cdnTag": "v1.2.73"
         },
         {
           "thumbnail": "/thumbnail/mobile/人像/清新/唯美-小清新.webp",
@@ -554,7 +554,7 @@
     {
       "tag": "背影",
       "score": 385,
-      "views": 293,
+      "views": 295,
       "downloads": 76,
       "wallpaperCount": 5,
       "series": [
@@ -585,8 +585,8 @@
     },
     {
       "tag": "甜美",
-      "score": 372,
-      "views": 347,
+      "score": 368,
+      "views": 348,
       "downloads": 39,
       "wallpaperCount": 5,
       "series": [
@@ -617,8 +617,8 @@
     },
     {
       "tag": "身材曲线",
-      "score": 368,
-      "views": 271,
+      "score": 365,
+      "views": 272,
       "downloads": 60,
       "wallpaperCount": 1,
       "series": [
@@ -633,7 +633,7 @@
     },
     {
       "tag": "萌宠",
-      "score": 344,
+      "score": 342,
       "views": 335,
       "downloads": 74,
       "wallpaperCount": 24,
@@ -665,8 +665,8 @@
     },
     {
       "tag": "室内",
-      "score": 343,
-      "views": 318,
+      "score": 342,
+      "views": 320,
       "downloads": 64,
       "wallpaperCount": 4,
       "series": [
@@ -693,8 +693,8 @@
     },
     {
       "tag": "写真",
-      "score": 327,
-      "views": 287,
+      "score": 325,
+      "views": 288,
       "downloads": 41,
       "wallpaperCount": 2,
       "series": [
@@ -713,7 +713,7 @@
     },
     {
       "tag": "艺术",
-      "score": 311,
+      "score": 310,
       "views": 238,
       "downloads": 97,
       "wallpaperCount": 4,
@@ -741,7 +741,7 @@
     },
     {
       "tag": "日落",
-      "score": 305,
+      "score": 302,
       "views": 112,
       "downloads": 115,
       "wallpaperCount": 4,
@@ -769,7 +769,7 @@
     },
     {
       "tag": "城市",
-      "score": 297,
+      "score": 295,
       "views": 88,
       "downloads": 110,
       "wallpaperCount": 2,
@@ -789,7 +789,7 @@
     },
     {
       "tag": "雪山",
-      "score": 288,
+      "score": 287,
       "views": 295,
       "downloads": 93,
       "wallpaperCount": 10,
@@ -821,7 +821,7 @@
     },
     {
       "tag": "影视",
-      "score": 281,
+      "score": 277,
       "views": 326,
       "downloads": 82,
       "wallpaperCount": 27,
@@ -853,7 +853,7 @@
     },
     {
       "tag": "自拍",
-      "score": 276,
+      "score": 273,
       "views": 195,
       "downloads": 60,
       "wallpaperCount": 2,
@@ -873,7 +873,7 @@
     },
     {
       "tag": "时尚女孩",
-      "score": 272,
+      "score": 270,
       "views": 190,
       "downloads": 60,
       "wallpaperCount": 1,
@@ -889,7 +889,7 @@
     },
     {
       "tag": "街道",
-      "score": 264,
+      "score": 262,
       "views": 64,
       "downloads": 104,
       "wallpaperCount": 1,
@@ -906,7 +906,7 @@
     {
       "tag": "花卉",
       "score": 248,
-      "views": 221,
+      "views": 223,
       "downloads": 83,
       "wallpaperCount": 10,
       "series": [
@@ -938,7 +938,7 @@
     {
       "tag": "海滨",
       "score": 216,
-      "views": 226,
+      "views": 228,
       "downloads": 75,
       "wallpaperCount": 13,
       "series": [
@@ -964,38 +964,6 @@
         {
           "thumbnail": "/thumbnail/mobile/风景/海滨/微信图片_20260120161630_514_4.webp",
           "cdnTag": "v1.1.43"
-        }
-      ]
-    },
-    {
-      "tag": "微笑",
-      "score": 216,
-      "views": 194,
-      "downloads": 50,
-      "wallpaperCount": 9,
-      "series": [
-        "mobile"
-      ],
-      "topWallpapers": [
-        {
-          "thumbnail": "/thumbnail/mobile/人像/清新/20260408163908.webp",
-          "cdnTag": "v1.2.53"
-        },
-        {
-          "thumbnail": "/thumbnail/mobile/人像/清新/微信图片_20260310202300_667_4.webp",
-          "cdnTag": "v1.2.9"
-        },
-        {
-          "thumbnail": "/thumbnail/mobile/人像/清新/image_神图壁纸_锁屏壁纸_该换壁纸了_..._20.webp",
-          "cdnTag": "v1.1.96"
-        },
-        {
-          "thumbnail": "/thumbnail/mobile/人像/氛围感/兔子玩偶-可爱女孩.webp",
-          "cdnTag": "v1.2.33"
-        },
-        {
-          "thumbnail": "/thumbnail/mobile/人像/清新/20260406195831.webp",
-          "cdnTag": "v1.2.47"
         }
       ]
     },
@@ -1032,8 +1000,40 @@
       ]
     },
     {
+      "tag": "微笑",
+      "score": 213,
+      "views": 194,
+      "downloads": 50,
+      "wallpaperCount": 9,
+      "series": [
+        "mobile"
+      ],
+      "topWallpapers": [
+        {
+          "thumbnail": "/thumbnail/mobile/人像/清新/20260408163908.webp",
+          "cdnTag": "v1.2.53"
+        },
+        {
+          "thumbnail": "/thumbnail/mobile/人像/清新/微信图片_20260310202300_667_4.webp",
+          "cdnTag": "v1.2.9"
+        },
+        {
+          "thumbnail": "/thumbnail/mobile/人像/清新/image_神图壁纸_锁屏壁纸_该换壁纸了_..._20.webp",
+          "cdnTag": "v1.1.96"
+        },
+        {
+          "thumbnail": "/thumbnail/mobile/人像/氛围感/兔子玩偶-可爱女孩.webp",
+          "cdnTag": "v1.2.33"
+        },
+        {
+          "thumbnail": "/thumbnail/mobile/人像/清新/20260406195831.webp",
+          "cdnTag": "v1.2.47"
+        }
+      ]
+    },
+    {
       "tag": "卡通",
-      "score": 210,
+      "score": 205,
       "views": 188,
       "downloads": 54,
       "wallpaperCount": 14,
@@ -1065,7 +1065,7 @@
     },
     {
       "tag": "夜景",
-      "score": 204,
+      "score": 203,
       "views": 212,
       "downloads": 46,
       "wallpaperCount": 13,
@@ -1129,7 +1129,7 @@
     },
     {
       "tag": "蜡笔小新",
-      "score": 195,
+      "score": 193,
       "views": 176,
       "downloads": 64,
       "wallpaperCount": 10,
