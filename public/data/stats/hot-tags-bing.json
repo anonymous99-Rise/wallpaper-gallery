@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T19:06:30.542Z",
+  "generatedAt": "2026-05-16T18:32:52.027Z",
   "series": "bing",
   "total": 278,
   "tags": [
@@ -22,7 +22,7 @@
     },
     {
       "tag": "2026 03",
-      "score": 213,
+      "score": 211,
       "views": 170,
       "downloads": 63,
       "wallpaperCount": 25,
@@ -33,8 +33,8 @@
         "bing-2026-03-02.jpg",
         "bing-2026-03-18.jpg",
         "bing-2026-03-01.jpg",
-        "bing-2026-03-14.jpg",
-        "bing-2026-03-23.jpg"
+        "bing-2026-03-23.jpg",
+        "bing-2026-03-24.jpg"
       ]
     },
     {
@@ -56,7 +56,7 @@
     },
     {
       "tag": "2026 02",
-      "score": 69,
+      "score": 68,
       "views": 70,
       "downloads": 23,
       "wallpaperCount": 17,
@@ -206,23 +206,6 @@
       ]
     },
     {
-      "tag": "2025 10",
-      "score": 16,
-      "views": 19,
-      "downloads": 12,
-      "wallpaperCount": 9,
-      "series": [
-        "bing"
-      ],
-      "topWallpapers": [
-        "bing-2025-10-30.jpg",
-        "bing-2025-10-02.jpg",
-        "bing-2025-10-04.jpg",
-        "bing-2025-10-19.jpg",
-        "bing-2025-10-18.jpg"
-      ]
-    },
-    {
       "tag": "时光在此处茁壮成长",
       "score": 16,
       "views": 18,
@@ -246,6 +229,23 @@
       ],
       "topWallpapers": [
         "bing-2026-03-18.jpg"
+      ]
+    },
+    {
+      "tag": "2025 10",
+      "score": 15,
+      "views": 19,
+      "downloads": 12,
+      "wallpaperCount": 9,
+      "series": [
+        "bing"
+      ],
+      "topWallpapers": [
+        "bing-2025-10-30.jpg",
+        "bing-2025-10-02.jpg",
+        "bing-2025-10-04.jpg",
+        "bing-2025-10-19.jpg",
+        "bing-2025-10-22.jpg"
       ]
     },
     {
@@ -302,7 +302,7 @@
     },
     {
       "tag": "圆周率的古老启示",
-      "score": 14,
+      "score": 13,
       "views": 8,
       "downloads": 5,
       "wallpaperCount": 1,
