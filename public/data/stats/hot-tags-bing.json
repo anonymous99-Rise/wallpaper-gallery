@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-05-21T19:26:48.285Z",
+  "generatedAt": "2026-05-22T19:13:53.150Z",
   "series": "bing",
-  "total": 274,
+  "total": 273,
   "tags": [
     {
       "tag": "2026 01",
-      "score": 275,
+      "score": 272,
       "views": 373,
       "downloads": 100,
       "wallpaperCount": 31,
@@ -13,8 +13,8 @@
         "bing"
       ],
       "topWallpapers": [
-        "bing-2026-01-03.jpg",
         "bing-2026-01-04.jpg",
+        "bing-2026-01-03.jpg",
         "bing-2026-01-15.jpg",
         "bing-2026-01-09.jpg",
         "bing-2026-01-06.jpg"
@@ -22,7 +22,7 @@
     },
     {
       "tag": "2026 03",
-      "score": 202,
+      "score": 200,
       "views": 170,
       "downloads": 63,
       "wallpaperCount": 25,
@@ -106,19 +106,6 @@
       ]
     },
     {
-      "tag": "传奇故事前的篇章",
-      "score": 26,
-      "views": 35,
-      "downloads": 10,
-      "wallpaperCount": 1,
-      "series": [
-        "bing"
-      ],
-      "topWallpapers": [
-        "bing-2026-01-03.jpg"
-      ]
-    },
-    {
       "tag": "2025 07",
       "score": 25,
       "views": 27,
@@ -133,6 +120,19 @@
         "bing-2025-07-15.jpg",
         "bing-2025-07-04.jpg",
         "bing-2025-07-06.jpg"
+      ]
+    },
+    {
+      "tag": "传奇故事前的篇章",
+      "score": 25,
+      "views": 35,
+      "downloads": 10,
+      "wallpaperCount": 1,
+      "series": [
+        "bing"
+      ],
+      "topWallpapers": [
+        "bing-2026-01-03.jpg"
       ]
     },
     {
@@ -327,19 +327,6 @@
       ]
     },
     {
-      "tag": "高角羚群紧急戒备",
-      "score": 12,
-      "views": 20,
-      "downloads": 3,
-      "wallpaperCount": 1,
-      "series": [
-        "bing"
-      ],
-      "topWallpapers": [
-        "bing-2026-01-05.jpg"
-      ]
-    },
-    {
       "tag": "春天的形状",
       "score": 12,
       "views": 11,
@@ -380,6 +367,19 @@
       ],
       "topWallpapers": [
         "bing-2026-01-19.jpg"
+      ]
+    },
+    {
+      "tag": "高角羚群紧急戒备",
+      "score": 11,
+      "views": 20,
+      "downloads": 3,
+      "wallpaperCount": 1,
+      "series": [
+        "bing"
+      ],
+      "topWallpapers": [
+        "bing-2026-01-05.jpg"
       ]
     },
     {
@@ -525,32 +525,6 @@
       ]
     },
     {
-      "tag": "古老岩石，现代灯光",
-      "score": 8,
-      "views": 8,
-      "downloads": 2,
-      "wallpaperCount": 1,
-      "series": [
-        "bing"
-      ],
-      "topWallpapers": [
-        "bing-2026-03-05.jpg"
-      ]
-    },
-    {
-      "tag": "爱尔兰的精神十字路口",
-      "score": 8,
-      "views": 7,
-      "downloads": 2,
-      "wallpaperCount": 1,
-      "series": [
-        "bing"
-      ],
-      "topWallpapers": [
-        "bing-2026-03-17.jpg"
-      ]
-    },
-    {
       "tag": "2025 09",
       "score": 7,
       "views": 10,
@@ -578,6 +552,32 @@
       ],
       "topWallpapers": [
         "bing-2025-12-01.jpg"
+      ]
+    },
+    {
+      "tag": "柏林，新年之桥",
+      "score": 7,
+      "views": 9,
+      "downloads": 3,
+      "wallpaperCount": 1,
+      "series": [
+        "bing"
+      ],
+      "topWallpapers": [
+        "bing-2025-12-31.jpg"
+      ]
+    },
+    {
+      "tag": "晨光透过结霜的树木洒下，瑞典",
+      "score": 7,
+      "views": 8,
+      "downloads": 3,
+      "wallpaperCount": 1,
+      "series": [
+        "bing"
+      ],
+      "topWallpapers": [
+        "bing-2025-12-30.jpg"
       ]
     }
   ]
