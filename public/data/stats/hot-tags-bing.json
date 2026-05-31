@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-05-30T18:41:09.239Z",
+  "generatedAt": "2026-05-31T18:46:34.971Z",
   "series": "bing",
-  "total": 270,
+  "total": 269,
   "tags": [
     {
       "tag": "2026 01",
-      "score": 267,
+      "score": 264,
       "views": 373,
       "downloads": 100,
       "wallpaperCount": 31,
@@ -13,8 +13,8 @@
         "bing"
       ],
       "topWallpapers": [
-        "bing-2026-01-03.jpg",
         "bing-2026-01-04.jpg",
+        "bing-2026-01-03.jpg",
         "bing-2026-01-15.jpg",
         "bing-2026-01-09.jpg",
         "bing-2026-01-01.jpg"
@@ -124,7 +124,7 @@
     },
     {
       "tag": "传奇故事前的篇章",
-      "score": 25,
+      "score": 24,
       "views": 35,
       "downloads": 10,
       "wallpaperCount": 1,
@@ -164,7 +164,7 @@
     },
     {
       "tag": "小村庄，大视野",
-      "score": 18,
+      "score": 17,
       "views": 23,
       "downloads": 7,
       "wallpaperCount": 1,
