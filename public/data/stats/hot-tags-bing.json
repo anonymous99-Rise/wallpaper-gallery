@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-03T20:39:01.369Z",
+  "generatedAt": "2026-06-04T19:37:36.438Z",
   "series": "bing",
-  "total": 269,
+  "total": 267,
   "tags": [
     {
       "tag": "2026 01",
-      "score": 265,
+      "score": 264,
       "views": 375,
       "downloads": 102,
       "wallpaperCount": 31,
@@ -90,7 +90,7 @@
     },
     {
       "tag": "2025 06",
-      "score": 35,
+      "score": 34,
       "views": 41,
       "downloads": 36,
       "wallpaperCount": 25,
@@ -98,8 +98,8 @@
         "bing"
       ],
       "topWallpapers": [
-        "bing-2025-06-27.jpg",
         "bing-2025-06-26.jpg",
+        "bing-2025-06-27.jpg",
         "bing-2025-06-04.jpg",
         "bing-2025-06-03.jpg",
         "bing-2025-06-13.jpg"
