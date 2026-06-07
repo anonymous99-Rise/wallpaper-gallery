@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-06T18:49:31.751Z",
+  "generatedAt": "2026-06-07T18:50:29.258Z",
   "series": "bing",
   "total": 266,
   "tags": [
     {
       "tag": "2026 01",
-      "score": 263,
+      "score": 261,
       "views": 375,
       "downloads": 102,
       "wallpaperCount": 31,
@@ -22,7 +22,7 @@
     },
     {
       "tag": "2026 03",
-      "score": 185,
+      "score": 184,
       "views": 170,
       "downloads": 63,
       "wallpaperCount": 25,
@@ -413,19 +413,6 @@
       ]
     },
     {
-      "tag": "从抗拒到绽放",
-      "score": 10,
-      "views": 13,
-      "downloads": 4,
-      "wallpaperCount": 1,
-      "series": [
-        "bing"
-      ],
-      "topWallpapers": [
-        "bing-2026-01-11.jpg"
-      ]
-    },
-    {
       "tag": "春日绯梦",
       "score": 10,
       "views": 13,
@@ -470,6 +457,19 @@
         "bing-2025-04-03.jpg",
         "bing-2025-04-06.jpg",
         "bing-2025-04-10.jpg"
+      ]
+    },
+    {
+      "tag": "从抗拒到绽放",
+      "score": 9,
+      "views": 13,
+      "downloads": 4,
+      "wallpaperCount": 1,
+      "series": [
+        "bing"
+      ],
+      "topWallpapers": [
+        "bing-2026-01-11.jpg"
       ]
     },
     {
