@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-17T19:37:29.916Z",
+  "generatedAt": "2026-06-18T19:39:44.458Z",
   "series": "bing",
   "total": 265,
   "tags": [
     {
       "tag": "2026 01",
-      "score": 247,
+      "score": 245,
       "views": 375,
       "downloads": 102,
       "wallpaperCount": 31,
@@ -22,7 +22,7 @@
     },
     {
       "tag": "2026 03",
-      "score": 172,
+      "score": 170,
       "views": 170,
       "downloads": 63,
       "wallpaperCount": 25,
@@ -107,7 +107,7 @@
     },
     {
       "tag": "2025 07",
-      "score": 25,
+      "score": 24,
       "views": 27,
       "downloads": 25,
       "wallpaperCount": 12,
@@ -115,8 +115,8 @@
         "bing"
       ],
       "topWallpapers": [
-        "bing-2025-07-11.jpg",
         "bing-2025-07-23.jpg",
+        "bing-2025-07-11.jpg",
         "bing-2025-07-15.jpg",
         "bing-2025-07-04.jpg",
         "bing-2025-07-06.jpg"
@@ -193,19 +193,6 @@
       ]
     },
     {
-      "tag": "漂浮的传承",
-      "score": 15,
-      "views": 14,
-      "downloads": 6,
-      "wallpaperCount": 1,
-      "series": [
-        "bing"
-      ],
-      "topWallpapers": [
-        "bing-2026-03-02.jpg"
-      ]
-    },
-    {
       "tag": "时光在此处茁壮成长",
       "score": 14,
       "views": 18,
@@ -216,6 +203,19 @@
       ],
       "topWallpapers": [
         "bing-2026-01-09.jpg"
+      ]
+    },
+    {
+      "tag": "漂浮的传承",
+      "score": 14,
+      "views": 14,
+      "downloads": 6,
+      "wallpaperCount": 1,
+      "series": [
+        "bing"
+      ],
+      "topWallpapers": [
+        "bing-2026-03-02.jpg"
       ]
     },
     {
@@ -396,19 +396,6 @@
       ]
     },
     {
-      "tag": "春日绯梦",
-      "score": 10,
-      "views": 13,
-      "downloads": 2,
-      "wallpaperCount": 1,
-      "series": [
-        "bing"
-      ],
-      "topWallpapers": [
-        "bing-2026-03-20.jpg"
-      ]
-    },
-    {
       "tag": "2025 01",
       "score": 9,
       "views": 19,
@@ -470,6 +457,19 @@
       ],
       "topWallpapers": [
         "bing-2026-01-11.jpg"
+      ]
+    },
+    {
+      "tag": "春日绯梦",
+      "score": 9,
+      "views": 13,
+      "downloads": 2,
+      "wallpaperCount": 1,
+      "series": [
+        "bing"
+      ],
+      "topWallpapers": [
+        "bing-2026-03-20.jpg"
       ]
     },
     {
