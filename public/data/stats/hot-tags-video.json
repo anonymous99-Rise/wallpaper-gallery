@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-19T19:15:00.721Z",
+  "generatedAt": "2026-06-20T18:55:31.258Z",
   "series": "video",
   "total": 25,
   "tags": [
     {
       "tag": "desktop",
-      "score": 333,
-      "views": 432,
+      "score": 332,
+      "views": 433,
       "downloads": 48,
       "wallpaperCount": 6,
       "series": [
@@ -38,7 +38,7 @@
     {
       "tag": "动漫",
       "score": 124,
-      "views": 178,
+      "views": 179,
       "downloads": 12,
       "wallpaperCount": 2,
       "series": [
@@ -77,7 +77,7 @@
     },
     {
       "tag": "IP形象",
-      "score": 87,
+      "score": 86,
       "views": 117,
       "downloads": 11,
       "wallpaperCount": 2,
@@ -130,7 +130,7 @@
     {
       "tag": "彩瞳少女特写",
       "score": 70,
-      "views": 97,
+      "views": 98,
       "downloads": 8,
       "wallpaperCount": 1,
       "series": [
@@ -146,7 +146,7 @@
     {
       "tag": "碎光倒影",
       "score": 70,
-      "views": 97,
+      "views": 98,
       "downloads": 8,
       "wallpaperCount": 1,
       "series": [
@@ -337,7 +337,7 @@
     },
     {
       "tag": "秋日秋千",
-      "score": 27,
+      "score": 26,
       "views": 37,
       "downloads": 3,
       "wallpaperCount": 1,
@@ -353,7 +353,7 @@
     },
     {
       "tag": "HelloKitty",
-      "score": 27,
+      "score": 26,
       "views": 37,
       "downloads": 3,
       "wallpaperCount": 1,
