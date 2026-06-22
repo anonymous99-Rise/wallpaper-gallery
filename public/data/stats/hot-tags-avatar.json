@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-21T19:03:23.724Z",
+  "generatedAt": "2026-06-22T20:19:51.964Z",
   "series": "avatar",
   "total": 503,
   "tags": [
     {
       "tag": "人像",
-      "score": 494,
+      "score": 490,
       "views": 475,
       "downloads": 239,
       "wallpaperCount": 157,
@@ -26,11 +26,11 @@
           "cdnTag": "v1.1.4"
         },
         {
-          "thumbnail": "/thumbnail/avatar/人像/氛围感/车窗黄昏凝望女生.webp",
+          "thumbnail": "/thumbnail/avatar/人像/氛围感/街角回眸男生.webp",
           "cdnTag": "v1.1.11"
         },
         {
-          "thumbnail": "/thumbnail/avatar/人像/氛围感/街角回眸男生.webp",
+          "thumbnail": "/thumbnail/avatar/人像/氛围感/车窗黄昏凝望女生.webp",
           "cdnTag": "v1.1.11"
         }
       ]
@@ -69,7 +69,7 @@
     },
     {
       "tag": "氛围感",
-      "score": 222,
+      "score": 220,
       "views": 231,
       "downloads": 121,
       "wallpaperCount": 61,
@@ -86,11 +86,11 @@
           "cdnTag": "v1.1.11"
         },
         {
-          "thumbnail": "/thumbnail/avatar/人像/氛围感/车窗黄昏凝望女生.webp",
+          "thumbnail": "/thumbnail/avatar/人像/氛围感/街角回眸男生.webp",
           "cdnTag": "v1.1.11"
         },
         {
-          "thumbnail": "/thumbnail/avatar/人像/氛围感/街角回眸男生.webp",
+          "thumbnail": "/thumbnail/avatar/人像/氛围感/车窗黄昏凝望女生.webp",
           "cdnTag": "v1.1.11"
         },
         {
@@ -101,7 +101,7 @@
     },
     {
       "tag": "萌宠",
-      "score": 183,
+      "score": 182,
       "views": 186,
       "downloads": 106,
       "wallpaperCount": 35,
@@ -133,7 +133,7 @@
     },
     {
       "tag": "甜妹",
-      "score": 154,
+      "score": 152,
       "views": 125,
       "downloads": 67,
       "wallpaperCount": 57,
@@ -789,7 +789,7 @@
     },
     {
       "tag": "狗狗",
-      "score": 35,
+      "score": 34,
       "views": 32,
       "downloads": 19,
       "wallpaperCount": 13,
@@ -996,8 +996,28 @@
       ]
     },
     {
-      "tag": "搞笑",
+      "tag": "Q版",
       "score": 26,
+      "views": 27,
+      "downloads": 10,
+      "wallpaperCount": 2,
+      "series": [
+        "avatar"
+      ],
+      "topWallpapers": [
+        {
+          "thumbnail": "/thumbnail/avatar/IP形象/通用/微信图片_20260310202255_660_4.webp",
+          "cdnTag": "v1.2.8"
+        },
+        {
+          "thumbnail": "/thumbnail/avatar/人像/卡通简笔画/微信图片_20260119095916_475_4.webp",
+          "cdnTag": "v1.1.40"
+        }
+      ]
+    },
+    {
+      "tag": "搞笑",
+      "score": 25,
       "views": 26,
       "downloads": 14,
       "wallpaperCount": 3,
@@ -1016,26 +1036,6 @@
         {
           "thumbnail": "/thumbnail/avatar/通用/微信图片_2026-01-23_165101_406.webp",
           "cdnTag": "v1.1.53"
-        }
-      ]
-    },
-    {
-      "tag": "Q版",
-      "score": 26,
-      "views": 27,
-      "downloads": 10,
-      "wallpaperCount": 2,
-      "series": [
-        "avatar"
-      ],
-      "topWallpapers": [
-        {
-          "thumbnail": "/thumbnail/avatar/IP形象/通用/微信图片_20260310202255_660_4.webp",
-          "cdnTag": "v1.2.8"
-        },
-        {
-          "thumbnail": "/thumbnail/avatar/人像/卡通简笔画/微信图片_20260119095916_475_4.webp",
-          "cdnTag": "v1.1.40"
         }
       ]
     },
