@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-23T19:28:05.916Z",
+  "generatedAt": "2026-06-24T19:13:50.460Z",
   "series": "bing",
-  "total": 264,
+  "total": 258,
   "tags": [
     {
       "tag": "2026 01",
-      "score": 240,
+      "score": 238,
       "views": 375,
       "downloads": 102,
       "wallpaperCount": 31,
@@ -56,7 +56,7 @@
     },
     {
       "tag": "2026 02",
-      "score": 57,
+      "score": 56,
       "views": 70,
       "downloads": 23,
       "wallpaperCount": 17,
@@ -69,23 +69,6 @@
         "bing-2026-02-25.jpg",
         "bing-2026-02-04.jpg",
         "bing-2026-02-20.jpg"
-      ]
-    },
-    {
-      "tag": "2025 06",
-      "score": 34,
-      "views": 41,
-      "downloads": 36,
-      "wallpaperCount": 25,
-      "series": [
-        "bing"
-      ],
-      "topWallpapers": [
-        "bing-2025-06-26.jpg",
-        "bing-2025-06-27.jpg",
-        "bing-2025-06-04.jpg",
-        "bing-2025-06-03.jpg",
-        "bing-2025-06-13.jpg"
       ]
     },
     {
@@ -103,6 +86,23 @@
         "bing-2025-11-23.jpg",
         "bing-2025-11-12.jpg",
         "bing-2025-11-10.jpg"
+      ]
+    },
+    {
+      "tag": "2025 06",
+      "score": 33,
+      "views": 40,
+      "downloads": 35,
+      "wallpaperCount": 24,
+      "series": [
+        "bing"
+      ],
+      "topWallpapers": [
+        "bing-2025-06-26.jpg",
+        "bing-2025-06-27.jpg",
+        "bing-2025-06-04.jpg",
+        "bing-2025-06-03.jpg",
+        "bing-2025-06-13.jpg"
       ]
     },
     {
@@ -396,23 +396,6 @@
       ]
     },
     {
-      "tag": "2025 01",
-      "score": 9,
-      "views": 19,
-      "downloads": 15,
-      "wallpaperCount": 8,
-      "series": [
-        "bing"
-      ],
-      "topWallpapers": [
-        "bing-2025-01-30.jpg",
-        "bing-2025-01-23.jpg",
-        "bing-2025-01-17.jpg",
-        "bing-2025-01-19.jpg",
-        "bing-2025-01-25.jpg"
-      ]
-    },
-    {
       "tag": "2025 04",
       "score": 9,
       "views": 17,
@@ -456,6 +439,23 @@
       ]
     },
     {
+      "tag": "2025 01",
+      "score": 8,
+      "views": 19,
+      "downloads": 15,
+      "wallpaperCount": 8,
+      "series": [
+        "bing"
+      ],
+      "topWallpapers": [
+        "bing-2025-01-30.jpg",
+        "bing-2025-01-23.jpg",
+        "bing-2025-01-17.jpg",
+        "bing-2025-01-19.jpg",
+        "bing-2025-01-25.jpg"
+      ]
+    },
+    {
       "tag": "2025 05",
       "score": 8,
       "views": 14,
@@ -483,19 +483,6 @@
       ],
       "topWallpapers": [
         "bing-2026-03-07.jpg"
-      ]
-    },
-    {
-      "tag": "苹果韵，旧时光",
-      "score": 8,
-      "views": 15,
-      "downloads": 2,
-      "wallpaperCount": 1,
-      "series": [
-        "bing"
-      ],
-      "topWallpapers": [
-        "bing-2026-01-13.jpg"
       ]
     },
     {
@@ -552,6 +539,19 @@
       ],
       "topWallpapers": [
         "bing-2026-03-11.jpg"
+      ]
+    },
+    {
+      "tag": "苹果韵，旧时光",
+      "score": 7,
+      "views": 15,
+      "downloads": 2,
+      "wallpaperCount": 1,
+      "series": [
+        "bing"
+      ],
+      "topWallpapers": [
+        "bing-2026-01-13.jpg"
       ]
     },
     {
