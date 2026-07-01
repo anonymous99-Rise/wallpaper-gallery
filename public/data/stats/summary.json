@@ -1,30 +1,30 @@
 {
-  "exportedAt": "2026-06-30 19:21:08",
+  "exportedAt": "2026-07-01 19:19:06",
   "series": {
     "desktop": {
       "count": 500,
-      "totalViews": 20210,
-      "totalDownloads": 6962
+      "totalViews": 20278,
+      "totalDownloads": 6988
     },
     "mobile": {
       "count": 500,
-      "totalViews": 12157,
-      "totalDownloads": 4071
+      "totalViews": 12207,
+      "totalDownloads": 4095
     },
     "avatar": {
       "count": 436,
-      "totalViews": 1477,
-      "totalDownloads": 687
+      "totalViews": 1479,
+      "totalDownloads": 688
     },
     "video": {
-      "count": 16,
-      "totalViews": 650,
-      "totalDownloads": 60
+      "count": 20,
+      "totalViews": 669,
+      "totalDownloads": 62
     },
     "bing": {
       "count": 497,
-      "totalViews": 1535,
-      "totalDownloads": 794
+      "totalViews": 1536,
+      "totalDownloads": 795
     }
   }
 }

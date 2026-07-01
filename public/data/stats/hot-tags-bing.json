@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-30T19:21:11.623Z",
+  "generatedAt": "2026-07-01T19:19:09.750Z",
   "series": "bing",
   "total": 258,
   "tags": [
     {
       "tag": "2026 01",
-      "score": 235,
+      "score": 233,
       "views": 375,
       "downloads": 102,
       "wallpaperCount": 31,
@@ -13,18 +13,18 @@
         "bing"
       ],
       "topWallpapers": [
-        "bing-2026-01-04.jpg",
         "bing-2026-01-03.jpg",
+        "bing-2026-01-04.jpg",
         "bing-2026-01-15.jpg",
-        "bing-2026-01-06.jpg",
-        "bing-2026-01-09.jpg"
+        "bing-2026-01-09.jpg",
+        "bing-2026-01-01.jpg"
       ]
     },
     {
       "tag": "2026 03",
       "score": 161,
-      "views": 170,
-      "downloads": 63,
+      "views": 171,
+      "downloads": 64,
       "wallpaperCount": 25,
       "series": [
         "bing"
@@ -34,12 +34,12 @@
         "bing-2026-03-18.jpg",
         "bing-2026-03-01.jpg",
         "bing-2026-03-23.jpg",
-        "bing-2026-03-24.jpg"
+        "bing-2026-03-14.jpg"
       ]
     },
     {
       "tag": "2025 12",
-      "score": 81,
+      "score": 78,
       "views": 102,
       "downloads": 48,
       "wallpaperCount": 27,
@@ -137,7 +137,7 @@
     },
     {
       "tag": "王者视野",
-      "score": 22,
+      "score": 21,
       "views": 43,
       "downloads": 7,
       "wallpaperCount": 1,
@@ -236,19 +236,6 @@
       ]
     },
     {
-      "tag": "努克的慵懒时光",
-      "score": 13,
-      "views": 22,
-      "downloads": 5,
-      "wallpaperCount": 1,
-      "series": [
-        "bing"
-      ],
-      "topWallpapers": [
-        "bing-2026-01-06.jpg"
-      ]
-    },
-    {
       "tag": "纯粹的瑞士魔力",
       "score": 12,
       "views": 17,
@@ -259,6 +246,19 @@
       ],
       "topWallpapers": [
         "bing-2026-01-10.jpg"
+      ]
+    },
+    {
+      "tag": "努克的慵懒时光",
+      "score": 12,
+      "views": 22,
+      "downloads": 5,
+      "wallpaperCount": 1,
+      "series": [
+        "bing"
+      ],
+      "topWallpapers": [
+        "bing-2026-01-06.jpg"
       ]
     },
     {
@@ -370,19 +370,6 @@
       ]
     },
     {
-      "tag": "春天的形状",
-      "score": 10,
-      "views": 11,
-      "downloads": 3,
-      "wallpaperCount": 1,
-      "series": [
-        "bing"
-      ],
-      "topWallpapers": [
-        "bing-2026-03-24.jpg"
-      ]
-    },
-    {
       "tag": "2025 04",
       "score": 9,
       "views": 17,
@@ -423,6 +410,19 @@
       ],
       "topWallpapers": [
         "bing-2026-03-21.jpg"
+      ]
+    },
+    {
+      "tag": "春天的形状",
+      "score": 9,
+      "views": 11,
+      "downloads": 3,
+      "wallpaperCount": 1,
+      "series": [
+        "bing"
+      ],
+      "topWallpapers": [
+        "bing-2026-03-24.jpg"
       ]
     },
     {
@@ -529,6 +529,19 @@
       ]
     },
     {
+      "tag": "混凝土中铸造的波浪",
+      "score": 7,
+      "views": 7,
+      "downloads": 3,
+      "wallpaperCount": 1,
+      "series": [
+        "bing"
+      ],
+      "topWallpapers": [
+        "bing-2026-03-06.jpg"
+      ]
+    },
+    {
       "tag": "一个美好的春天",
       "score": 7,
       "views": 6,
@@ -569,19 +582,6 @@
         "bing-2024-11-08.jpg",
         "bing-2024-11-10.jpg",
         "bing-2024-11-16.jpg"
-      ]
-    },
-    {
-      "tag": "冰山上天然形成的拱门  南极洲",
-      "score": 6,
-      "views": 5,
-      "downloads": 5,
-      "wallpaperCount": 1,
-      "series": [
-        "bing"
-      ],
-      "topWallpapers": [
-        "bing-2025-12-01.jpg"
       ]
     }
   ]
