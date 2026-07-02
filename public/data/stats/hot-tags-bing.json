@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-01T19:19:09.750Z",
+  "generatedAt": "2026-07-02T18:59:03.183Z",
   "series": "bing",
   "total": 258,
   "tags": [
     {
       "tag": "2026 01",
-      "score": 233,
+      "score": 232,
       "views": 375,
       "downloads": 102,
       "wallpaperCount": 31,
@@ -503,19 +503,6 @@
       ]
     },
     {
-      "tag": "瑞士山间的短逃离",
-      "score": 7,
-      "views": 6,
-      "downloads": 4,
-      "wallpaperCount": 1,
-      "series": [
-        "bing"
-      ],
-      "topWallpapers": [
-        "bing-2026-01-24.jpg"
-      ]
-    },
-    {
       "tag": "治愈、宁静且充满希望",
       "score": 7,
       "views": 5,
@@ -582,6 +569,19 @@
         "bing-2024-11-08.jpg",
         "bing-2024-11-10.jpg",
         "bing-2024-11-16.jpg"
+      ]
+    },
+    {
+      "tag": "冰山上天然形成的拱门  南极洲",
+      "score": 6,
+      "views": 5,
+      "downloads": 5,
+      "wallpaperCount": 1,
+      "series": [
+        "bing"
+      ],
+      "topWallpapers": [
+        "bing-2025-12-01.jpg"
       ]
     }
   ]
