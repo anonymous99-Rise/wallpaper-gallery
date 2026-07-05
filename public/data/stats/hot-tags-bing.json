@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-04T18:33:46.188Z",
+  "generatedAt": "2026-07-05T18:38:59.596Z",
   "series": "bing",
   "total": 257,
   "tags": [
     {
       "tag": "2026 01",
-      "score": 234,
+      "score": 233,
       "views": 378,
       "downloads": 104,
       "wallpaperCount": 31,
@@ -344,19 +344,6 @@
       ]
     },
     {
-      "tag": "威尼斯的灵魂",
-      "score": 10,
-      "views": 20,
-      "downloads": 3,
-      "wallpaperCount": 1,
-      "series": [
-        "bing"
-      ],
-      "topWallpapers": [
-        "bing-2026-01-02.jpg"
-      ]
-    },
-    {
       "tag": "春天的形状",
       "score": 10,
       "views": 12,
@@ -410,6 +397,19 @@
       ],
       "topWallpapers": [
         "bing-2026-03-21.jpg"
+      ]
+    },
+    {
+      "tag": "威尼斯的灵魂",
+      "score": 9,
+      "views": 20,
+      "downloads": 3,
+      "wallpaperCount": 1,
+      "series": [
+        "bing"
+      ],
+      "topWallpapers": [
+        "bing-2026-01-02.jpg"
       ]
     },
     {
