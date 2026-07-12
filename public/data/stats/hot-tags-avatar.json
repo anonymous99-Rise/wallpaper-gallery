@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T18:28:23.267Z",
+  "generatedAt": "2026-07-12T18:29:08.694Z",
   "series": "avatar",
   "total": 503,
   "tags": [
@@ -133,7 +133,7 @@
     },
     {
       "tag": "萌宠",
-      "score": 176,
+      "score": 175,
       "views": 192,
       "downloads": 111,
       "wallpaperCount": 35,
@@ -165,7 +165,7 @@
     },
     {
       "tag": "猫咪",
-      "score": 142,
+      "score": 141,
       "views": 158,
       "downloads": 90,
       "wallpaperCount": 22,
@@ -389,7 +389,7 @@
     },
     {
       "tag": "搞怪",
-      "score": 69,
+      "score": 68,
       "views": 97,
       "downloads": 32,
       "wallpaperCount": 35,
@@ -414,8 +414,8 @@
           "cdnTag": "v1.1.53"
         },
         {
-          "thumbnail": "/thumbnail/avatar/表情包/搞怪/微信图片_20260126155109_64_1186.webp",
-          "cdnTag": "v1.1.53"
+          "thumbnail": "/thumbnail/avatar/表情包/搞怪/微信图片_20260310202244_646_4.webp",
+          "cdnTag": "v1.2.8"
         }
       ]
     },
@@ -548,38 +548,6 @@
       ]
     },
     {
-      "tag": "表情包",
-      "score": 60,
-      "views": 88,
-      "downloads": 27,
-      "wallpaperCount": 33,
-      "series": [
-        "avatar"
-      ],
-      "topWallpapers": [
-        {
-          "thumbnail": "/thumbnail/avatar/表情包/搞怪/戴墨镜帽子的Q版男孩.webp",
-          "cdnTag": "v1.1.4"
-        },
-        {
-          "thumbnail": "/thumbnail/avatar/表情包/搞怪/线条兔_墨镜酷酷.webp",
-          "cdnTag": "v1.1.11"
-        },
-        {
-          "thumbnail": "/thumbnail/avatar/动漫/通用/image_高级头像话题_趣味头像话题_头像..._2.webp",
-          "cdnTag": "v1.2.33"
-        },
-        {
-          "thumbnail": "/thumbnail/avatar/表情包/搞怪/微信图片_2026-01-23_165024_232.webp",
-          "cdnTag": "v1.1.53"
-        },
-        {
-          "thumbnail": "/thumbnail/avatar/表情包/搞怪/微信图片_20260126155109_64_1186.webp",
-          "cdnTag": "v1.1.53"
-        }
-      ]
-    },
-    {
       "tag": "治愈",
       "score": 59,
       "views": 26,
@@ -608,18 +576,34 @@
       ]
     },
     {
-      "tag": "戴耳机",
-      "score": 58,
-      "views": 61,
-      "downloads": 39,
-      "wallpaperCount": 1,
+      "tag": "表情包",
+      "score": 59,
+      "views": 88,
+      "downloads": 27,
+      "wallpaperCount": 33,
       "series": [
         "avatar"
       ],
       "topWallpapers": [
         {
-          "thumbnail": "/thumbnail/avatar/萌宠/猫咪/戴耳机.webp",
+          "thumbnail": "/thumbnail/avatar/表情包/搞怪/戴墨镜帽子的Q版男孩.webp",
+          "cdnTag": "v1.1.4"
+        },
+        {
+          "thumbnail": "/thumbnail/avatar/表情包/搞怪/线条兔_墨镜酷酷.webp",
           "cdnTag": "v1.1.11"
+        },
+        {
+          "thumbnail": "/thumbnail/avatar/动漫/通用/image_高级头像话题_趣味头像话题_头像..._2.webp",
+          "cdnTag": "v1.2.33"
+        },
+        {
+          "thumbnail": "/thumbnail/avatar/表情包/搞怪/微信图片_2026-01-23_165024_232.webp",
+          "cdnTag": "v1.1.53"
+        },
+        {
+          "thumbnail": "/thumbnail/avatar/表情包/搞怪/微信图片_20260310202244_646_4.webp",
+          "cdnTag": "v1.2.8"
         }
       ]
     },
@@ -652,6 +636,22 @@
         {
           "thumbnail": "/thumbnail/avatar/人像/甜妹/微信图片_2026-04-09_152758_334.webp",
           "cdnTag": "v1.2.57"
+        }
+      ]
+    },
+    {
+      "tag": "戴耳机",
+      "score": 57,
+      "views": 61,
+      "downloads": 39,
+      "wallpaperCount": 1,
+      "series": [
+        "avatar"
+      ],
+      "topWallpapers": [
+        {
+          "thumbnail": "/thumbnail/avatar/萌宠/猫咪/戴耳机.webp",
+          "cdnTag": "v1.1.11"
         }
       ]
     },
