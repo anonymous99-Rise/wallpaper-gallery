@@ -21,6 +21,8 @@ const GITHUB_CDN_BASE = 'https://cdn.jsdelivr.net/gh/IT-NuanxinPro/nuanXinProPic
 const VIDEO_CDN_BASE = 'https://img.061129.xyz'
 const UPSERT_BATCH_SIZE = 200
 const SELECT_BATCH_SIZE = 1000
+const REQUEST_RETRY_ATTEMPTS = 3
+const REQUEST_RETRY_DELAY_MS = 1000
 
 function readJson(filePath) {
   return JSON.parse(fs.readFileSync(filePath, 'utf8'))
@@ -66,6 +68,41 @@ function chunk(items, size) {
     chunks.push(items.slice(index, index + size))
   }
   return chunks
+}
+
+function sleep(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms))
+}
+
+export function isRetryableNetworkError(error) {
+  const message = String(error?.message || '').toLowerCase()
+  return [
+    'fetch failed',
+    'econnreset',
+    'etimedout',
+    'enotfound',
+    'eai_again',
+    'network',
+    'socket hang up',
+  ].some(token => message.includes(token))
+}
+
+export async function withNetworkRetry(operationName, fn, attempts = REQUEST_RETRY_ATTEMPTS) {
+  for (let attempt = 1; attempt <= attempts; attempt += 1) {
+    try {
+      return await fn()
+    }
+    catch (error) {
+      const isLastAttempt = attempt === attempts
+      if (!isRetryableNetworkError(error) || isLastAttempt) {
+        throw error
+      }
+
+      const waitMs = REQUEST_RETRY_DELAY_MS * attempt
+      console.warn(`⚠️ ${operationName} 网络异常，${waitMs}ms 后重试 (${attempt}/${attempts})：${error.message}`)
+      await sleep(waitMs)
+    }
+  }
 }
 
 function getStandardCategoryFiles(series) {
@@ -231,10 +268,10 @@ async function fetchExistingAssetKeys(supabase) {
   let from = 0
 
   while (true) {
-    const { data, error } = await supabase
+    const { data, error } = await withNetworkRetry('读取 wallpaper_assets', () => supabase
       .from('wallpaper_assets')
       .select('asset_key')
-      .range(from, from + SELECT_BATCH_SIZE - 1)
+      .range(from, from + SELECT_BATCH_SIZE - 1))
 
     if (error) {
       throw error
@@ -258,9 +295,9 @@ async function fetchExistingAssetKeys(supabase) {
 
 async function upsertWallpaperAssets(supabase, assets) {
   for (const batch of chunk(assets, UPSERT_BATCH_SIZE)) {
-    const { error } = await supabase
+    const { error } = await withNetworkRetry('写入 wallpaper_assets', () => supabase
       .from('wallpaper_assets')
-      .upsert(batch, { onConflict: 'asset_key' })
+      .upsert(batch, { onConflict: 'asset_key' }))
 
     if (error) {
       throw error
@@ -275,13 +312,13 @@ async function markRemovedAssets(supabase, assetKeys) {
 
   const removedAt = new Date().toISOString()
   for (const batch of chunk(assetKeys, UPSERT_BATCH_SIZE)) {
-    const { error } = await supabase
+    const { error } = await withNetworkRetry('标记移除 wallpaper_assets', () => supabase
       .from('wallpaper_assets')
       .update({
         removed_at: removedAt,
         status: 'removed',
       })
-      .in('asset_key', batch)
+      .in('asset_key', batch))
 
     if (error) {
       throw error

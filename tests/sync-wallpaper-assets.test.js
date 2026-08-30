@@ -1,5 +1,10 @@
 import { describe, expect, it } from 'vitest'
-import { mapBingWallpaperAsset, mapStandardWallpaperAsset } from '../scripts/sync-wallpaper-assets.js'
+import {
+  isRetryableNetworkError,
+  mapBingWallpaperAsset,
+  mapStandardWallpaperAsset,
+  withNetworkRetry,
+} from '../scripts/sync-wallpaper-assets.js'
 
 describe('mapStandardWallpaperAsset', () => {
   it('creates a stable asset key and active asset record for standard wallpapers', () => {
@@ -44,5 +49,37 @@ describe('mapBingWallpaperAsset', () => {
     expect(record.category).toBe('2026-03')
     expect(record.preview_path).toBe('https://cn.bing.com/th?id=OHR.ManateeSpring_ZH-CN5252847120_1920x1080.jpg')
     expect(record.raw_url).toBe('https://cn.bing.com/th?id=OHR.ManateeSpring_ZH-CN5252847120_UHD.jpg')
+  })
+})
+
+describe('withNetworkRetry', () => {
+  it('retries transient network failures and eventually succeeds', async () => {
+    let attempts = 0
+    const result = await withNetworkRetry('test-op', async () => {
+      attempts += 1
+      if (attempts < 3) {
+        throw new Error('TypeError: fetch failed')
+      }
+      return 'ok'
+    }, 3)
+
+    expect(result).toBe('ok')
+    expect(attempts).toBe(3)
+  })
+
+  it('does not retry non-network errors', async () => {
+    let attempts = 0
+    await expect(withNetworkRetry('test-op', async () => {
+      attempts += 1
+      throw new Error('invalid input payload')
+    }, 3)).rejects.toThrow('invalid input payload')
+
+    expect(attempts).toBe(1)
+  })
+})
+
+describe('isRetryableNetworkError', () => {
+  it('recognizes fetch failures as retryable', () => {
+    expect(isRetryableNetworkError(new Error('TypeError: fetch failed'))).toBe(true)
   })
 })
